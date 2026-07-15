@@ -1,0 +1,16 @@
+@font-face {
+    font-family: undertaleFont;
+    src: url("../assets/DeterminationMonoWeb.woff");
+}
+
+#text-box {
+    border: 5px solid white;
+    font-size: 2rem;
+    font-family: undertaleFont;
+    padding: 20px;
+
+    width: 700px;
+    height: 200px;
+
+    margin: 120px auto 0;
+}

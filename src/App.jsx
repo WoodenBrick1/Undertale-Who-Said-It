@@ -18,6 +18,7 @@ if (dialogue == "") {
   GetRandomDialogue();
 }
 
+console.log("Dialogue: ", dialogue)
 
   return (
     <div>

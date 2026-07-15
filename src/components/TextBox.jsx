@@ -6,7 +6,7 @@ function TextBox (props) {
 
     return (
     <div id="text-box">
-        * {props.text}
+        <span id="asteriks">*</span> {props.text}
     </div>)
 }
 

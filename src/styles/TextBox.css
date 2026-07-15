@@ -5,12 +5,19 @@
 
 #text-box {
     border: 5px solid white;
-    font-size: 2rem;
+    font-size: 3rem;
     font-family: undertaleFont;
-    padding: 20px;
+    padding: 20px 80px;
 
-    width: 700px;
-    height: 200px;
+    width: 1000px;
+    height: 230px;
 
     margin: 120px auto 0;
+
+    position: relative;
+}
+
+#asteriks {
+    position: absolute;
+    left: 30px;
 }

@@ -1,0 +1,681 @@
+[
+    {
+        "id": 0,
+        "name": "Flowey"
+    },
+    {
+        "id": 1,
+        "name": "Toriel"
+    },
+    {
+        "id": 2,
+        "name": "Snowman"
+        
+    },
+    {
+        "id": 3,
+        "name": "Papyrus"
+        
+    },
+    {
+        "id": 4,
+        "name": "Sans"
+        
+    },
+    {
+        "id": 5,
+        "name": "Nice Cream Guy"
+        
+    },
+    {
+        "id": 6,
+        "name": "Chara"
+        
+    },
+    {
+        "id": 7,
+        "name": "Rock"
+        
+    },
+    {
+        "id": 8,
+        "name": "Napstablook"
+        
+    },
+    {
+        "id": 9,
+        "name": "Snowed Inn Keeper"
+        
+    },
+    {
+        "id": 10,
+        "name": "Ficus Licker"
+        
+    },
+    {
+        "id": 11,
+        "name": "Undyne"
+        
+    },
+    {
+        "id": 12,
+        "name": "Monster Kid"
+        
+    },
+    {
+        "id": 13,
+        "name": "Ferry"
+        
+    },
+    {
+        "id": 14,
+        "name": "Mettaton"
+        
+    },
+    {
+        "id": 15,
+        "name": "Froggit"
+        
+    },
+    {
+        "id": 16,
+        "name": "Asgore"
+        
+    },
+    {
+        "id": 17,
+        "name": "River Person"
+        
+    },
+    {
+        "id": 18,
+        "name": "Asriel"
+        
+    },
+    {
+        "id": 19,
+        "name": "Alphys"
+        
+    },
+    {
+        "id": 20,
+        "name": "Onionsan"
+        
+    },
+    {
+        "id": 21,
+        "name": "Heats Flamesman"
+        
+    },
+    {
+        "id": 22,
+        "name": "MTT Resort room resident"
+        
+    },
+    {
+        "id": 23,
+        "name": "Hand Receptionist"
+        
+    },
+    {
+        "id": 24,
+        "name": "Catty"
+        
+    },
+    {
+        "id": 25,
+        "name": "Bratty"
+        
+    },
+    {
+        "id": 26,
+        "name": "Gerson"
+        
+    },
+    {
+        "id": 27,
+        "name": "Shyren"
+        
+    },
+    {
+        "id": 28,
+        "name": "Aaron"
+        
+    },
+    {
+        "id": 29,
+        "name": "Temmie"
+        
+    },
+    {
+        "id": 30,
+        "name": "Asriel"
+        
+    },
+    {
+        "id": 31,
+        "name": "Goner Kid"
+        
+    },
+    {
+        "id": 32,
+        "name": "Gaster Follower"
+        
+    },
+    {
+        "id": 33,
+        "name": "Wrong Number Song Caller"
+        
+    },
+    {
+        "id": 34,
+        "name": "Gaster"
+        
+    },
+    {
+        "id": 35,
+        "name": "Dummy"
+        
+    },
+    {
+        "id": 36,
+        "name": "Whimsun"
+        
+    },
+    {
+        "id": 37,
+        "name": "Migosp"
+        
+    },
+    {
+        "id": 38,
+        "name": "Vegetoid"
+        
+    },
+    {
+        "id": 39,
+        "name": "Loox"
+        
+    },
+    {
+        "id": 40,
+        "name": "Moldsmal"
+        
+    },
+    {
+        "id": 41,
+        "name": "Ice Cap"
+        
+    },
+    {
+        "id": 42,
+        "name": "Jerry"
+        
+    },
+    {
+        "id": 43,
+        "name": "Ice"
+        
+    },
+    {
+        "id": 44,
+        "name": "Lesser dog"
+        
+    },
+    {
+        "id": 45,
+        "name": "Glyde"
+        
+    },
+    {
+        "id": 46,
+        "name": "Gyftrot"
+        
+    },
+    {
+        "id": 47,
+        "name": "Doge"
+        
+    },
+    {
+        "id": 48,
+        "name": "Doge"
+        
+    },
+    {
+        "id": 49,
+        "name": "Dogamy"
+        
+    },
+    {
+        "id": 50,
+        "name": "Dogaressa"
+        
+    },
+    {
+        "id": 51,
+        "name": "Doggo"
+        
+    },
+    {
+        "id": 52,
+        "name": "Snowdrake"
+        
+    },
+    {
+        "id": 53,
+        "name": "Chilldrake"
+        
+    },
+    {
+        "id": 54,
+        "name": "Woshua"
+        
+    },
+    {
+        "id": 55,
+        "name": "Glad Dummy"
+        
+    },
+    {
+        "id": 56,
+        "name": "Mad Dummy"
+        
+    },
+    {
+        "id": 57,
+        "name": "Moldbygg"
+        
+    },
+    {
+        "id": 58,
+        "name": "Television"
+        
+    },
+    {
+        "id": 59,
+        "name": "RG 01"
+        
+    },
+    {
+        "id": 60,
+        "name": "RG 02"
+        
+    },
+    {
+        "id": 61,
+        "name": "RG 03"
+        
+    },
+    {
+        "id": 62,
+        "name": "RG 04"
+        
+    },
+    {
+        "id": 63,
+        "name": "Tsunderplane"
+        
+    },
+    {
+        "id": 64,
+        "name": "Vulkin"
+        
+    },
+    {
+        "id": 65,
+        "name": "Pyrope"
+        
+    },
+    {
+        "id": 66,
+        "name": "Muffet"
+        
+    },
+    {
+        "id": 67,
+        "name": "Madjick"
+        
+    },
+    {
+        "id": 68,
+        "name": "Knight Knight"
+        
+    },
+    {
+        "id": 69,
+        "name": "Final Froggit"
+        
+    },
+    {
+        "id": 70,
+        "name": "Astigmatism"
+        
+    },
+    {
+        "id": 71,
+        "name": "Whimsalot"
+        
+    },
+    {
+        "id": 72,
+        "name": "Bomb"
+        
+    },
+    {
+        "id": 73,
+        "name": "So Sorry"
+        
+    },
+    {
+        "id": 74,
+        "name": "Lemon Bread"
+        
+    },
+    {
+        "id": 75,
+        "name": "Snowdrake's Mother"
+        
+    },
+    {
+        "id": 76,
+        "name": "Memoryhead"
+        
+    },
+    {
+        "id": 77,
+        "name": "Migospel"
+        
+    },
+    {
+        "id": 78,
+        "name": "Parsnik"
+        
+    },
+    {
+        "id": 79,
+        "name": "Moldessa"
+        
+    },
+    {
+        "id": 80,
+        "name": "Annoying Dog"
+        
+    },
+    {
+        "id": 81,
+        "name": "Faun"
+        
+    },
+    {
+        "id": 82,
+        "name": "Napstablook's Cousin"
+        
+    },
+    {
+        "id": 83,
+        "name": "Echo Flower"
+        
+    },
+    {
+        "id": 84,
+        "name": "Snail 2"
+        
+    },
+    {
+        "id": 85,
+        "name": "Rabbit Kid"
+        
+    },
+    {
+        "id": 86,
+        "name": "Echo Flower Explainer"
+        
+    },
+    {
+        "id": 87,
+        "name": "Nacarat Jester"
+        
+    },
+    {
+        "id": 88,
+        "name": "Rabbit Girl"
+        
+    },
+    {
+        "id": 89,
+        "name": "Fox Head"
+        
+    },
+    {
+        "id": 90,
+        "name": "Snowdin Knock Lover"
+        
+    },
+    {
+        "id": 91,
+        "name": "Snowed Inn Keeper's Child"
+        
+    },
+    {
+        "id": 92,
+        "name": "Ball Game"
+        
+    },
+    {
+        "id": 93,
+        "name": "Loren"
+        
+    },
+    {
+        "id": 94,
+        "name": "Skateboard girl"
+        
+    },
+    {
+        "id": 95,
+        "name": "Fuku Fire"
+        
+    },
+    {
+        "id": 96,
+        "name": "Scared Donut Guy"
+        
+    },
+    {
+        "id": 97,
+        "name": "Fish Receptionist"
+        
+    },
+    {
+        "id": 98,
+        "name": "Charles"
+        
+    },
+    {
+        "id": 99,
+        "name": "Oni"
+        
+    },
+    {
+        "id": 100,
+        "name": "Dress Lion"
+        
+    },
+    {
+        "id": 101,
+        "name": "Diamond Receptionist"
+        
+    },
+    {
+        "id": 102,
+        "name": "Hot Dog Harpy"
+        
+    },
+    {
+        "id": 103,
+        "name": "Snowdin Shopkeeper"
+        
+    },
+    {
+        "id": 104,
+        "name": "Burgerpants"
+        
+    },
+    {
+        "id": 105,
+        "name": "Politics Bear"
+        
+    },
+    {
+        "id": 106,
+        "name": "Gift Bear"
+        
+    },
+    {
+        "id": 107,
+        "name": "Scarf Mouse"
+        
+    },
+    {
+        "id": 108,
+        "name": "Punk Hamster"
+        
+    },
+    {
+        "id": 109,
+        "name": "Dad Slime"
+        
+    },
+    {
+        "id": 110,
+        "name": "Kid Slime"
+        
+    },
+    {
+        "id": 111,
+        "name": "Ice Wolf"
+        
+    },
+    {
+        "id": 112,
+        "name": "Drunk Bun"
+        
+    },
+    {
+        "id": 113,
+        "name": "Red Bird"
+        
+    },
+    {
+        "id": 114,
+        "name": "Grillby"
+        
+    },
+    {
+        "id": 115,
+        "name": "Ugly Fish"
+        
+    },
+    {
+        "id": 116,
+        "name": "Big Mouth"
+        
+    },
+    {
+        "id": 117,
+        "name": "Library Lizard"
+        
+    },
+    {
+        "id": 118,
+        "name": "Lady Garf"
+        
+    },
+    {
+        "id": 119,
+        "name": "Library Loox"
+        
+    },
+    {
+        "id": 120,
+        "name": "Scarf Lady"
+        
+    },
+    {
+        "id": 121,
+        "name": "Sad Dragon"
+        
+    },
+    {
+        "id": 122,
+        "name": "Diamond Boy"
+        
+    },
+    {
+        "id": 123,
+        "name": "Shambling Mass"
+        
+    },
+    {
+        "id": 124,
+        "name": "Clam Guy"
+        
+    },
+    {
+        "id": 125,
+        "name": "Clam Girl"
+        
+    },
+    {
+        "id": 126,
+        "name": "Business Manticore"
+        
+    },
+    {
+        "id": 127,
+        "name": "Snowdrake's Father"
+        
+    },
+    {
+        "id": 128,
+        "name": "Elder Puzzler"
+        
+    },
+    {
+        "id": 129,
+        "name": "Bob"
+        
+    },
+    {
+        "id": 130,
+        "name": "Snail 1"
+        
+    },
+    {
+        "id": 131,
+        "name": "Ragel"
+        
+    },
+    {
+        "id": 132,
+        "name": "Omega Flowey"
+        
+    },
+    {
+        "id": 133,
+        "name": "Asriel"
+        
+    }
+
+    
+    
+]
+
+
+
+
+
+
+
+

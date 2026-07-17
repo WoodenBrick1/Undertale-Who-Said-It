@@ -1,3 +1,9 @@
+@font-face {
+    font-family: undertaleTitle;
+    src: url("../assets/DeterminationMonoWeb.woff") ;
+    
+}
+
 :root {
   font-size: 16px;
 }
@@ -9,4 +15,12 @@
 body {
   background-color: rgb(10, 10, 10);
   color: white;
+}
+
+#main-container {
+  width: 1000px;
+  margin: 120px auto 0;
+
+  border: 1px solid white;
+
 }

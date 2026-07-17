@@ -1,42 +1,5 @@
 [
   {
-    "Accessible in game": "Accessible after resets",
-    "True Pacifist": "Genocide",
-    "character": "Tests and errors"
-  },
-  {
-    "Accessible in game": "Neutral Not Pacifist",
-    "True Pacifist": "Hard Mode",
-    "character": "Variable names"
-  },
-  {
-    "dialogue": "Text",
-    "character": "Character",
-    "location": "Area",
-    "Column6": "Room",
-    "Column7": "How to get it ?"
-  },
-  {
-    "dialogue": " I'm outta here.",
-    "character": "Frisk",
-    "Column6": "room_battle"
-  },
-  {
-    "dialogue": "   I've got better to do.",
-    "character": "Frisk",
-    "Column6": "room_battle"
-  },
-  {
-    "dialogue": "   Escaped...",
-    "character": "Frisk",
-    "Column6": "room_battle"
-  },
-  {
-    "dialogue": "   Don't slow me down.",
-    "character": "Frisk",
-    "Column6": "room_battle"
-  },
-  {
     "dialogue": "Howdy! I'm FLOWEY.  FLOWEY the FLOWER!",
     "character": "Flowey",
     "location": "Ruins",
@@ -290,12 +253,6 @@
     "Column6": "room_ruins4"
   },
   {
-    "dialogue": "...",
-    "character": "Toriel",
-    "location": "Ruins",
-    "Column6": "room_ruins4"
-  },
-  {
     "dialogue": "... you ran away...",
     "character": "Toriel",
     "location": "Ruins",
@@ -327,18 +284,6 @@
   },
   {
     "dialogue": "Nevermind. Stay close to me and   I will keep you safe.",
-    "character": "Toriel",
-    "location": "Ruins",
-    "Column6": "room_ruins4"
-  },
-  {
-    "dialogue": "...",
-    "character": "Toriel",
-    "location": "Ruins",
-    "Column6": "room_ruins4"
-  },
-  {
-    "dialogue": "...",
     "character": "Toriel",
     "location": "Ruins",
     "Column6": "room_ruins4"
@@ -446,12 +391,6 @@
     "Column6": "room_ruins5"
   },
   {
-    "dialogue": "...",
-    "character": "Toriel",
-    "location": "Ruins",
-    "Column6": "room_ruins6"
-  },
-  {
     "dialogue": "Greetings, my child. Do not worry, I did   not leave you.",
     "character": "Toriel",
     "location": "Ruins",
@@ -524,12 +463,6 @@
     "Column6": "room_ruins6"
   },
   {
-    "dialogue": "...",
-    "character": "Toriel",
-    "location": "Ruins",
-    "Column6": "room_ruins6"
-  },
-  {
     "dialogue": "I would like you to walk   to the end of the room   by yourself.",
     "character": "Toriel",
     "location": "Ruins",
@@ -582,18 +515,6 @@
     "character": "Cell phone",
     "location": "Ruins",
     "Column6": "room_ruins9"
-  },
-  {
-    "dialogue": "(Call Me!   Here's my number!)",
-    "character": "Ugly Fish (note)",
-    "location": "Snowdin",
-    "Column6": "room_tundra3A"
-  },
-  {
-    "dialogue": "(Nevermind, guys!)",
-    "character": "Ugly Fish (note)",
-    "location": "Snowdin",
-    "Column6": "room_tundra3A"
   },
   {
     "dialogue": "I shouldn't have given myself   away so easily...",
@@ -975,7 +896,7 @@
   },
   {
     "dialogue": "Super! Here you go! Your Card's in the box! (You got the Nice Cream.)",
-    "character": "Nice Cream Guy and Narrator",
+    "character": "Nice Cream Guy",
     "location": "Waterfall",
     "Column6": "room_water_nicecream"
   },
@@ -993,7 +914,7 @@
   },
   {
     "dialogue": "Here! A free Nice Cream! (You lost 3 cards and got   a Nice Cream.)",
-    "character": "Nice Cream Guy and Narrator",
+    "character": "Nice Cream Guy",
     "location": "Waterfall",
     "Column6": "room_water_nicecream"
   },
@@ -1773,13 +1694,13 @@
   },
   {
     "dialogue": "\"Why did the skeleton want   a friend?\"",
-    "character": "Toriel (diary)",
+    "character": "Toriel",
     "location": "Ruins",
     "Column6": "room_torielroom"
   },
   {
     "dialogue": "\"Because she was feeling   BONELY...",
-    "character": "Toriel (diary)",
+    "character": "Toriel",
     "location": "Ruins",
     "Column6": "room_torielroom"
   },
@@ -2032,12 +1953,6 @@
   {
     "dialogue": "MY FRIEND QUANTITY WILL REMAIN STAGNANT!",
     "character": "Papyrus",
-    "location": "Snowdin",
-    "Column6": "room_fogroom"
-  },
-  {
-    "dialogue": "(What should you say?)  Let's be    What a  friends     loser",
-    "character": "Narrator",
     "location": "Snowdin",
     "Column6": "room_fogroom"
   },
@@ -2498,12 +2413,6 @@
     "Column6": "room_water11"
   },
   {
-    "dialogue": "(Use the telescope?)    Yes No",
-    "character": "Narrator",
-    "location": "Waterfall",
-    "Column6": "room_water11"
-  },
-  {
     "dialogue": "huh? you aren't satisfied?",
     "character": "Sans",
     "location": "Waterfall",
@@ -2642,12 +2551,6 @@
     "Column6": "room_water5"
   },
   {
-    "dialogue": "...",
-    "character": "Papyrus",
-    "location": "Waterfall",
-    "Column6": "room_water5"
-  },
-  {
     "dialogue": "GOT IT!!! WINK WINK!!!",
     "character": "Papyrus",
     "location": "Waterfall",
@@ -2738,24 +2641,6 @@
     "Column6": "room_tundra_sanshouse"
   },
   {
-    "dialogue": "(NO GIRLS ALLOWED!)",
-    "character": "Papyrus (label)",
-    "location": "Snowdin",
-    "Column6": "room_tundra_sanshouse"
-  },
-  {
-    "dialogue": "(NO BOYS ALLOWED!)",
-    "character": "Papyrus (label)",
-    "location": "Snowdin",
-    "Column6": "room_tundra_sanshouse"
-  },
-  {
-    "dialogue": "(PAPYRUS ALLOWED.)",
-    "character": "Papyrus (label)",
-    "location": "Snowdin",
-    "Column6": "room_tundra_sanshouse"
-  },
-  {
     "dialogue": "THERE ARE NO SKELETONS INSIDE MY CLOSET!!!",
     "character": "Papyrus",
     "location": "Snowdin",
@@ -2826,13 +2711,6 @@
     "character": "Sans",
     "location": "Waterfall",
     "Column6": "room_water2"
-  },
-  {
-    "dialogue": "...",
-    "character": "Sans",
-    "location": "Waterfall",
-    "Column6": "room_water2",
-    "Column7": "It's not sparing Papyrus in Genocide apparently, I tested it"
   },
   {
     "dialogue": "hey, looks like you're   really turning yourself   around.",
@@ -4292,12 +4170,6 @@
     "Column6": "room_fire_coreview2"
   },
   {
-    "dialogue": "...",
-    "character": "Alphys",
-    "location": "Hotland",
-    "Column6": "room_fire_coreview2"
-  },
-  {
     "dialogue": "W-well, don't worry,   okay?",
     "character": "Alphys",
     "location": "Hotland",
@@ -4574,12 +4446,6 @@
     "Column6": "room_fire_multitile"
   },
   {
-    "dialogue": "...",
-    "character": "Alphys",
-    "location": "Hotland",
-    "Column6": "room_fire_multitile"
-  },
-  {
     "dialogue": "B-before I met you,   I d-didn't really...",
     "character": "Alphys",
     "location": "Hotland",
@@ -4764,12 +4630,6 @@
     "character": "Papyrus",
     "location": "Waterfall",
     "Column6": "room_water_undyneyard"
-  },
-  {
-    "dialogue": "...",
-    "character": "Undyne",
-    "location": "Waterfall",
-    "Column6": "room_water_undynehouse"
   },
   {
     "dialogue": "So why are YOU   here?",
@@ -5636,12 +5496,6 @@
     "Column6": "room_ruins13"
   },
   {
-    "dialogue": "NAPSTABLOOK22 has sent you   a friend request. ",
-    "character": "Narrator (Undernet)",
-    "location": "Hotland",
-    "Column6": "room_fire_apron"
-  },
-  {
     "dialogue": "hey. i heard you're going   to the core.",
     "character": "Sans",
     "location": "Hotland",
@@ -6362,12 +6216,6 @@
     "Column6": "room_castle_prebarrier"
   },
   {
-    "dialogue": "...",
-    "character": "Alphys",
-    "location": "New Home",
-    "Column6": "room_castle_prebarrier"
-  },
-  {
     "dialogue": "*...Oh, uh...",
     "character": "Alphys",
     "location": "New Home",
@@ -6909,91 +6757,91 @@
   },
   {
     "dialogue": "Hey.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "Thanks for your help back   there.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "You guys... Your support really means a   lot to me.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "But... As difficult as it is   to say this...",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "You guys alone can't   magically make my own   problems go away.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "I want to be a better   person.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "I don't want to be   afraid anymore.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "And for that to happen,   I have to be able to   face my own mistakes.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "I'm going to start   doing that now.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "I want to be clear.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "This isn't anyone else's   problem but mine.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "But if you don't ever   hear from me again...",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "If you want to know   \"the truth.\"",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "Enter the door to the   north of this note.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
   {
     "dialogue": "You all at least deserve   to know what I did.",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "Hotland",
     "Column6": "room_fire_lab1"
   },
@@ -7161,12 +7009,6 @@
   },
   {
     "dialogue": "i see.",
-    "character": "Sans",
-    "location": "New Home",
-    "Column6": "room_sanscorridor"
-  },
-  {
-    "dialogue": "...",
     "character": "Sans",
     "location": "New Home",
     "Column6": "room_sanscorridor"
@@ -7455,55 +7297,55 @@
   },
   {
     "dialogue": "Oooooaaah ! Room service !",
-    "character": "MTT Resort room 1 resident",
+    "character": "MTT Resort room resident",
     "location": "Hotland",
     "Column6": "room_fire_hoteldoors"
   },
   {
     "dialogue": "Got my \"Sea Tea\" ?    Yes No",
-    "character": "MTT Resort room 1 resident",
+    "character": "MTT Resort room resident",
     "location": "Hotland",
     "Column6": "room_fire_hoteldoors"
   },
   {
     "dialogue": "Room service never came . (Sigh ...)",
-    "character": "MTT Resort room 1 resident",
+    "character": "MTT Resort room resident",
     "location": "Hotland",
     "Column6": "room_fire_hoteldoors"
   },
   {
     "dialogue": "Thanks a million .",
-    "character": "MTT Resort room 1 resident",
+    "character": "MTT Resort room resident",
     "location": "Hotland",
     "Column6": "room_fire_hoteldoors"
   },
   {
     "dialogue": "HUH !?!?!?!? That's just the way I want ! Here's a tip .",
-    "character": "MTT Resort room 1 resident",
+    "character": "MTT Resort room resident",
     "location": "Hotland",
     "Column6": "room_fire_hoteldoors"
   },
   {
     "dialogue": "... No you don't .",
-    "character": "MTT Resort room 1 resident",
+    "character": "MTT Resort room resident",
     "location": "Hotland",
     "Column6": "room_fire_hoteldoors"
   },
   {
     "dialogue": "Then ...!?",
-    "character": "MTT Resort room 1 resident",
+    "character": "MTT Resort room resident",
     "location": "Hotland",
     "Column6": "room_fire_hoteldoors"
   },
   {
     "dialogue": "Got my \"Cinnamon Bun\" ?    Yes No",
-    "character": "MTT Resort room 3 resident",
+    "character": "MTT Resort room resident",
     "location": "Hotland",
     "Column6": "room_fire_hoteldoors"
   },
   {
     "dialogue": "Thanks a trillion .",
-    "character": "MTT Resort room 3 resident",
+    "character": "MTT Resort room resident",
     "location": "Hotland",
     "Column6": "room_fire_hoteldoors"
   },
@@ -8017,7 +7859,7 @@
   },
   {
     "dialogue": "............#(They're powerless to#stop you.)",
-    "character": "Napstablook and Narrator",
+    "character": "Napstablook",
     "Column6": "room_intromenu"
   },
   {
@@ -8056,264 +7898,32 @@
     "Column6": "room_intromenu"
   },
   {
-    "dialogue": "0",
-    "character": "Save File"
-  },
-  {
-    "dialogue": "LV ",
-    "character": "Save File"
-  },
-  {
-    "dialogue": ":",
-    "character": "Save File"
-  },
-  {
-    "dialogue": "Continue",
-    "character": "Save File"
-  },
-  {
-    "dialogue": "Joystick Config",
-    "character": "Save File",
-    "Column6": "room_intromenu"
-  },
-  {
-    "dialogue": "Reset",
-    "character": "Save File",
-    "Column6": "room_intromenu"
-  },
-  {
-    "dialogue": "True Reset",
-    "character": "Save File",
-    "Column6": "room_intromenu"
-  },
-  {
-    "dialogue": "--",
-    "character": "Save File"
-  },
-  {
-    "dialogue": "Ruins - Entrance",
-    "character": "Save File",
-    "location": "Ruins",
-    "Column6": "room_ruins1"
-  },
-  {
-    "dialogue": "Ruins - Leaf Pile",
-    "character": "Save File",
-    "location": "Ruins",
-    "Column6": "room_ruins7"
-  },
-  {
-    "dialogue": "Ruins - Mouse Hole",
-    "character": "Save File",
-    "location": "Ruins",
-    "Column6": "room_ruins12A"
-  },
-  {
-    "dialogue": "Ruins - Home",
-    "character": "Save File",
-    "location": "Ruins",
-    "Column6": "room_ruins19"
-  },
-  {
-    "dialogue": "Snowdin - Ruins Exit",
-    "character": "Save File",
-    "location": "Snowdin"
-  },
-  {
-    "dialogue": "Snowdin - Box Road",
-    "character": "Save File",
-    "location": "Snowdin",
-    "Column6": "room_tundra3"
-  },
-  {
-    "dialogue": "Snowdin - Spaghetti",
-    "character": "Save File",
-    "location": "Snowdin",
-    "Column6": "room_tundra_spaghetti"
-  },
-  {
-    "dialogue": "Snowdin - Dog House",
-    "character": "Save File",
-    "location": "Snowdin",
-    "Column6": "room_tundra_lesserdog"
-  },
-  {
-    "dialogue": "Snowdin - Town",
-    "character": "Save File",
-    "location": "Snowdin",
-    "Column6": "room_tundra_town"
-  },
-  {
-    "dialogue": "Waterfall - Checkpoint",
-    "character": "Save File",
-    "location": "Waterfall",
-    "Column6": "room_water2"
-  },
-  {
-    "dialogue": "Waterfall - Hallway",
-    "character": "Save File",
-    "location": "Waterfall",
-    "Column6": "room_water4"
-  },
-  {
-    "dialogue": "Waterfall - Crystal",
-    "character": "Save File",
-    "location": "Waterfall",
-    "Column6": "room_water_savepoint1"
-  },
-  {
-    "dialogue": "Waterfall - Bridge",
-    "character": "Save File",
-    "location": "Waterfall",
-    "Column6": "room_water_preundyne"
-  },
-  {
-    "dialogue": "Waterfall - Trash Zone",
-    "character": "Save File",
-    "location": "Waterfall",
-    "Column6": "room_water_trashsavepoint"
-  },
-  {
-    "dialogue": "Waterfall - Quiet Area",
-    "character": "Save File",
-    "location": "Waterfall",
-    "Column6": "room_water_friendlyhub"
-  },
-  {
-    "dialogue": "Waterfall - Temmie Village",
-    "character": "Save File",
-    "location": "Waterfall",
-    "Column6": "room_water_temvillage"
-  },
-  {
-    "dialogue": "Waterfall - Undyne Arena",
-    "character": "Save File",
-    "location": "Waterfall",
-    "Column6": "room_water_undynefinal"
-  },
-  {
-    "dialogue": "Hotland - Bad Opinion Zone",
-    "character": "Save File",
-    "location": "Hotland",
-    "Column6": "room_fire_mewmew2"
-  },
-  {
-    "dialogue": "Hotland - Laboratory Entrance",
-    "character": "Save File",
-    "location": "Hotland",
-    "Column6": "room_fire_prelab"
-  },
-  {
-    "dialogue": "Hotland - Magma Chamber",
-    "character": "Save File",
-    "location": "Hotland",
-    "Column6": "room_fire6"
-  },
-  {
-    "dialogue": "Hotland - Core View",
-    "character": "Save File",
-    "location": "Hotland",
-    "Column6": "room_fire_savepoint1"
-  },
-  {
-    "dialogue": "Hotland - Spider Entrance",
-    "character": "Save File",
-    "location": "Hotland",
-    "Column6": "room_fire_savepoint2"
-  },
-  {
-    "dialogue": "Hotland - Hotel Lobby",
-    "character": "Save File",
-    "location": "Hotland",
-    "Column6": "room_fire_hotellobby"
-  },
-  {
-    "dialogue": "Hotland - Core Branch",
-    "character": "Save File",
-    "location": "Core",
-    "Column6": "room_fire_core_branch"
-  },
-  {
-    "dialogue": "Hotland - Core End",
-    "character": "Save File",
-    "location": "Core",
-    "Column6": "room_fire_core_premett"
-  },
-  {
-    "dialogue": "Castle Elevator",
-    "character": "Save File",
-    "location": "New Home",
-    "Column6": "room_castle_elevatorout"
-  },
-  {
-    "dialogue": "New Home",
-    "character": "Save File",
-    "location": "New Home",
-    "Column6": "room_castle_front"
-  },
-  {
-    "dialogue": "Last Corridor",
-    "character": "Save File",
-    "location": "New Home",
-    "Column6": "room_sanscorridor"
-  },
-  {
-    "dialogue": "Throne Entrance",
-    "character": "Save File",
-    "location": "New Home",
-    "Column6": "room_castle_finalshoehorn"
-  },
-  {
-    "dialogue": "Throne Room",
-    "character": "Save File",
-    "location": "New Home",
-    "Column6": "room_castle_throneroom"
-  },
-  {
-    "dialogue": "The End",
-    "character": "Save File",
-    "location": "New Home",
-    "Column6": "room_castle_prebarrier"
-  },
-  {
-    "dialogue": "True Laboratory",
-    "character": "Save File",
-    "location": "True Lab",
-    "Column6": "room_truelab_hub"
-  },
-  {
-    "dialogue": "True Lab - Bedroom",
-    "character": "Save File",
-    "location": "True Lab",
-    "Column6": "room_truelab_bedroom"
-  },
-  {
     "dialogue": "You're just great!",
-    "character": "Nice Cream Guy (Nice Cream wrapper)"
+    "character": "Nice Cream Guy"
   },
   {
     "dialogue": "You look nice today!",
-    "character": "Nice Cream Guy (Nice Cream wrapper)"
+    "character": "Nice Cream Guy"
   },
   {
     "dialogue": "Are those claws natural?",
-    "character": "Nice Cream Guy (Nice Cream wrapper)"
+    "character": "Nice Cream Guy"
   },
   {
     "dialogue": "You're super spiffy!",
-    "character": "Nice Cream Guy (Nice Cream wrapper)"
+    "character": "Nice Cream Guy"
   },
   {
     "dialogue": "Have a wonderful day!",
-    "character": "Nice Cream Guy (Nice Cream wrapper)"
+    "character": "Nice Cream Guy"
   },
   {
     "dialogue": "Is this as sweet as you?",
-    "character": "Nice Cream Guy (Nice Cream wrapper)"
+    "character": "Nice Cream Guy"
   },
   {
     "dialogue": "Love yourself! I love you!",
-    "character": "Nice Cream Guy (Nice Cream wrapper)"
+    "character": "Nice Cream Guy"
   },
   {
     "dialogue": "About time.",
@@ -9336,12 +8946,6 @@
     "Column6": "room_tundra_paproom"
   },
   {
-    "dialogue": "...",
-    "character": "Papyrus",
-    "location": "Snowdin",
-    "Column6": "room_tundra_paproom"
-  },
-  {
     "dialogue": "... YOU'RE STILL IN MY ROOM??",
     "character": "Papyrus",
     "location": "Snowdin",
@@ -9433,12 +9037,6 @@
   },
   {
     "dialogue": "WHAT A TERRIBLE MEMORY!",
-    "character": "Papyrus",
-    "location": "Snowdin",
-    "Column6": "room_fogroom"
-  },
-  {
-    "dialogue": "...",
     "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_fogroom"
@@ -10969,12 +10567,6 @@
   },
   {
     "dialogue": "WHEN THEY'RE DOWN IN THE DUMPS!!!",
-    "character": "Papyrus",
-    "location": "Waterfall",
-    "Column6": "room_water_trashzone2"
-  },
-  {
-    "dialogue": "...",
     "character": "Papyrus",
     "location": "Waterfall",
     "Column6": "room_water_trashzone2"
@@ -13476,12 +13068,6 @@
     "Column6": "room_fire_coreview2"
   },
   {
-    "dialogue": "...",
-    "character": "Undyne",
-    "location": "Hotland",
-    "Column6": "room_fire_coreview2"
-  },
-  {
     "dialogue": "What!? No, we just   became friends!!",
     "character": "Undyne",
     "location": "Hotland",
@@ -15587,215 +15173,215 @@
   },
   {
     "dialogue": "Dear Frisk,",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Sans and Alphys are teaching   me how to text. I am learning so much.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "For example: Do you know what a   \"smiley\" is?",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Please look at this:",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "  ]: )",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Now turn your head to the   left.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "It is a picture of me   smiling at you! Can you see it?",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "L-O-L! (That stands for Lots of   Laughter.)",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Sincerely, Toriel",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
-    "dialogue": "(TORIEL sent you a message.) Dear Frisk,",
-    "character": "Narrator and Toriel (message)"
+    "dialogue": "((Guess Who :3) sent you a message.) Dear Frisk,",
+    "character": "Toriel"
   },
   {
     "dialogue": "How are you? You have been   wandering around for   quite some time now.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "I hope you are not getting   into trouble.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Only kidding. L-O-L!",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Sincerly, Toriel",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "PS - Do not get into trouble.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
-    "dialogue": "(TORIEL sent you a message.) Excuse me,",
-    "character": "Narrator and Toriel (message)"
+    "dialogue": "((Guess Who :3) sent you a message.) Excuse me,",
+    "character": "Toriel"
   },
   {
     "dialogue": "I did not mean to write   \"sincerly.\" I meant to say \"sincerely.\"",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "It is difficult to use this   with large hands.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Perhaps I should ask Sans   to transcribe for me.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
-    "dialogue": "(TORIEL sent you a message.) Sans will be typing from   now on.",
-    "character": "Narrator and Toriel (message)"
+    "dialogue": "((Guess Who :3) sent you a message.) Sans will be typing from   now on.",
+    "character": "Toriel"
   },
   {
     "dialogue": "hey frisk. it's torrrrrieellll",
-    "character": "Sans (message)"
+    "character": "Sans"
   },
   {
     "dialogue": "i just baked 1000000 pies. do you want any?",
-    "character": "Sans (message)"
+    "character": "Sans"
   },
   {
     "dialogue": "make sure to brush your   teeth before crossing   the street, frisk",
-    "character": "Sans (message)"
+    "character": "Sans"
   },
   {
     "dialogue": "I did not say any of that.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Greetings. This is Sans. I love my brother very much.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "help im being slandered",
-    "character": "Sans (message)"
+    "character": "Sans"
   },
   {
     "dialogue": "This is Sans. Frisk, did you know that I   love to \"get owned?\"",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "I also think Toriel is very   good and fhfjkehfeaufsisf",
-    "character": "Sans (message)"
+    "character": "Sans"
   },
   {
     "dialogue": "Excuse me",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": ".",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Fwd: send this 2 some1 u   care about... or a skeleton   will rattle his bones at u",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Thought you might enjoy this. ]: )",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Undyne and Papyrus want to   cook something together   with me.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Sans is telling me that they   are excellent chefs.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "I am excited. ]: ) Maybe if you are lucky, you   can have some!",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "If Sans and I started a   band, do you know what   we could call it?",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "\"Dreemurr\" and \"Femur.\" L-O-L!",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "PS - That is only a joke. Do not refer to me as   Dreemurr.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Undyne is very strong.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Papyrus made a bet with her   that she could not lift   everyone here up.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "She could.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "The only trouble is that   she did not know how to   put everyone down.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Alphys is telling me many   interesting facts about   the human world.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Quite a few of them are   wrong, though.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Frisk, you did not tell   her anything funny, did you? ]: )",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "I heard that using the   computer for too long   is bad for you.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "However, I have not seen   you use the computer at all.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "You must be very healthy! How nice.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "I think I may have to turn   off the phone for now.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Your friends are all very   lovely people!",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "I think I will spend this   time getting to know   them better.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Be good, alright?",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "Sincerely, Toriel.",
-    "character": "Toriel (message)"
+    "character": "Toriel"
   },
   {
     "dialogue": "In my way.",
@@ -15871,103 +15457,103 @@
   },
   {
     "dialogue": "Alphys might work faster. But the old Royal Scientist,   Doctor W.D. Gaster?",
-    "character": "Gaster Follower 2",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_r1"
   },
   {
     "dialogue": "One day, he vanished   without a trace.",
-    "character": "Gaster Follower 2",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_r1"
   },
   {
     "dialogue": "They say he shattered   across time and space.",
-    "character": "Gaster Follower 2",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_r1"
   },
   {
     "dialogue": "Ha ha... How can I say so   without fear?",
-    "character": "Gaster Follower 2",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_r1"
   },
   {
     "dialogue": "I'm holding a piece of   him right here.",
-    "character": "Gaster Follower 2",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_r1"
   },
   {
     "dialogue": "It makes sense why ASGORE   took so long to hire a   new Royal Scientist.",
-    "character": "Gaster Follower 1",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l3"
   },
   {
     "dialogue": "After all, the old one... Dr. Gaster. What an act to follow!",
-    "character": "Gaster Follower 1",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l3"
   },
   {
     "dialogue": "They say he created the CORE.",
-    "character": "Gaster Follower 1",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l3"
   },
   {
     "dialogue": "However, his life... Was cut short.",
-    "character": "Gaster Follower 1",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l3"
   },
   {
     "dialogue": "One day, he fell into   his creation, and...",
-    "character": "Gaster Follower 1",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l3"
   },
   {
     "dialogue": "Will Alphys end up the   same way?",
-    "character": "Gaster Follower 1",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l3"
   },
   {
     "dialogue": "I understand why ASGORE   waited so long to hire a   new Royal Scientist.",
-    "character": "Gaster Follower 3",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l2"
   },
   {
     "dialogue": "The previous one... Dr. Gaster.",
-    "character": "Gaster Follower 3",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l2"
   },
   {
     "dialogue": "His brilliance was   irreplaceable.",
-    "character": "Gaster Follower 3",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l2"
   },
   {
     "dialogue": "One day, his experiments   went wrong, and...",
-    "character": "Gaster Follower 3",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l2"
   },
   {
     "dialogue": "Well, I needn't gossip.",
-    "character": "Gaster Follower 3",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l2"
   },
   {
     "dialogue": "After all, it's rude to   talk about someone who's   listening.",
-    "character": "Gaster Follower 3",
+    "character": "Gaster Follower",
     "location": "Hotland",
     "Column6": "room_fire_elevator_l2"
   },
@@ -16039,12 +15625,6 @@
   },
   {
     "dialogue": "I have them copied, I'll   just paste them to you.",
-    "character": "Alphys",
-    "location": "Snowdin",
-    "Column6": "room_tundra4"
-  },
-  {
-    "dialogue": "...",
     "character": "Alphys",
     "location": "Snowdin",
     "Column6": "room_tundra4"
@@ -17060,12 +16640,6 @@
     "Column6": "room_undertale_end"
   },
   {
-    "dialogue": "...",
-    "character": "Undyne",
-    "location": "New Home",
-    "Column6": "room_undertale_end"
-  },
-  {
     "dialogue": "Come on, Undyne! Snap out of it!",
     "character": "Undyne",
     "location": "New Home",
@@ -17432,12 +17006,6 @@
     "Column6": "room_undertale_end"
   },
   {
-    "dialogue": "...",
-    "character": "Sans",
-    "location": "New Home",
-    "Column6": "room_undertale_end"
-  },
-  {
     "dialogue": "but people REALLY   didn't like that   policy.",
     "character": "Sans",
     "location": "New Home",
@@ -17565,12 +17133,6 @@
   },
   {
     "dialogue": "even more vehement   about destroying   humanity than ASGORE.",
-    "character": "Sans",
-    "location": "New Home",
-    "Column6": "room_undertale_end"
-  },
-  {
-    "dialogue": "...",
     "character": "Sans",
     "location": "New Home",
     "Column6": "room_undertale_end"
@@ -19262,12 +18824,6 @@
     "Column6": "room_undertale_end"
   },
   {
-    "dialogue": "...",
-    "character": "Flowey",
-    "location": "New Home",
-    "Column6": "room_undertale_end"
-  },
-  {
     "dialogue": "Say.",
     "character": "Flowey",
     "location": "New Home",
@@ -19586,12 +19142,6 @@
     "Column6": "room_undertale_end"
   },
   {
-    "dialogue": "...",
-    "character": "Flowey",
-    "location": "New Home",
-    "Column6": "room_undertale_end"
-  },
-  {
     "dialogue": "Well.",
     "character": "Flowey",
     "location": "New Home",
@@ -19761,12 +19311,6 @@
   },
   {
     "dialogue": "Making me watch you live out your life, while I...?",
-    "character": "Flowey",
-    "location": "New Home",
-    "Column6": "room_undertale_end"
-  },
-  {
-    "dialogue": "...",
     "character": "Flowey",
     "location": "New Home",
     "Column6": "room_undertale_end"
@@ -20204,12 +19748,6 @@
     "Column6": "room_flowey_regret"
   },
   {
-    "dialogue": "...",
-    "character": "Flowey",
-    "location": "New Home",
-    "Column6": "room_flowey_regret"
-  },
-  {
     "dialogue": "Well.",
     "character": "Flowey",
     "location": "New Home",
@@ -20426,12 +19964,6 @@
     "Column6": "room_flowey_regret"
   },
   {
-    "dialogue": "FRIENDSHIP",
-    "character": "Friendship HUD",
-    "location": "Snowdin",
-    "Column6": "room_papdate"
-  },
-  {
     "dialogue": "HERE WE ARE!! ",
     "character": "Papyrus",
     "location": "Snowdin",
@@ -20517,12 +20049,6 @@
   },
   {
     "dialogue": "DATING HUD.",
-    "character": "Papyrus",
-    "location": "Snowdin",
-    "Column6": "room_papdate"
-  },
-  {
-    "dialogue": "FRIENDSHIP HUD.",
     "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_papdate"
@@ -20619,12 +20145,6 @@
   },
   {
     "dialogue": "STEP THREE... PUT ON NICE CLOTHES TO SHOW YOU CARE!",
-    "character": "Papyrus",
-    "location": "Snowdin",
-    "Column6": "room_papdate"
-  },
-  {
-    "dialogue": "...",
     "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_papdate"
@@ -21267,12 +20787,6 @@
   },
   {
     "dialogue": "BOY, IS IT HOT IN HERE, OR IS IT JUST ME??",
-    "character": "Papyrus",
-    "location": "Snowdin",
-    "Column6": "room_papdate"
-  },
-  {
-    "dialogue": "...",
     "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_papdate"
@@ -25525,12 +25039,7 @@
     "location": "Waterfall",
     "Column6": "room_battle"
   },
-  {
-    "dialogue": "tweet",
-    "character": "Woshua's Bird",
-    "location": "Waterfall",
-    "Column6": "room_battle"
-  },
+
   {
     "dialogue": "... what the HECK is that music?",
     "character": "Woshua",
@@ -26463,73 +25972,73 @@
   },
   {
     "dialogue": "Damn it...",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "So even THAT power... It wasn't enough...?",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Heh...",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Heheheh...",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "If you...",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "If you think I'm gonna give up hope, you're wrong.",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "'Cause I've... Got my friends behind me.",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Alphys told me that she would watch me fight you...",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "And if anything went wrong, she would... evacuate everyone.",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "By now she's called ASGORE and told him to absorb the 6 human SOULs.",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "And with that power...",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "This world will live on...!",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
@@ -26739,19 +26248,19 @@
   },
   {
     "dialogue": "You're gonna have to try a little harder than THAT.",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "You...",
-    "character": "Undyne the Undying",
+    "character": "Undyne",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
   {
     "dialogue": "You're gonna have to try a little harder than THAT!",
-    "character": "Undyne the Undying",
+    "character": "Undynes",
     "location": "Waterfall",
     "Column6": "room_battle"
   },
@@ -29990,12 +29499,6 @@
     "Column6": "room_battle"
   },
   {
-    "dialogue": "Zzz...",
-    "character": "Annoying Dog-Bomb",
-    "location": "Hotland",
-    "Column6": "room_battle"
-  },
-  {
     "dialogue": "Swish.",
     "character": "Bomb",
     "location": "Hotland",
@@ -30024,13 +29527,6 @@
     "character": "Television",
     "location": "Core",
     "Column6": "room_battle"
-  },
-  {
-    "dialogue": "HyperAction",
-    "character": "Television",
-    "location": "Core",
-    "Column6": "room_battle",
-    "Column7": "Rating boost against Mettaton EX"
   },
   {
     "dialogue": "Fashion",
@@ -30082,325 +29578,325 @@
   },
   {
     "dialogue": "Lights! Camera! Action!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Drama! Romance! Blood- shed!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I'm the idol everyone craves!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Smile for the camera!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Oooh, it's time for a pop quiz!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I hope you brought a keyboard...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "This one's an essay question!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Your essay really showed everyone your heart.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Why don't I show you mine?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Ooooh, I'm just warming up!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "But how are you on the dance floor!?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Can you keep up the pace!?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Lights! Camera Bombs!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Things are blowing up!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Time for our union- regulated break!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "We've grown so distant, darling...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "How about another heart-to-heart?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "A.. arms? Wh... who needs arms with legs like these?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I'm still going to win!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Come on ...!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "The show ... must go on!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Dr... Drama! A... Action!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "L... lights... C... camera...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Enough of this! Do you really want humanity to perish!?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "... or do you just believe in yourself that much?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Haha, how inspiring!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Well, darling! It's either me or you!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "But I think we both already know who's going to win.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Witness the true power of humanity's star!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "... then...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Are YOU the star?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Can you really protect humanity!?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "H.. ha...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "So I was wrong.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Darling...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "You really are strong enough to get past ASGORE.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Well then...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "It's time for you to go.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Don't worry about me.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I might seem like I'm dying now, but...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Dr. Alphys can always repair me.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "And... besides...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Even if I'm not cut out to be a star...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I still got to perform for a human, didn't I?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "So, thank you, darling...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "You've been a great audience!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "OOH, LOOK AT THESE RATINGS!!!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "THIS IS THE MOST VIEWERS I'VE EVER HAD!!!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "WE'VE REACHED THE VIEWER CALL-IN MILESTONE!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "ONE LUCKY VIEWER WILL HAVE THE CHANCE TO TALK TO ME...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "... BEFORE I LEAVE THE UNDERGROUND FOREVER!!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "LET'S SEE WHO CALLS IN FIRST!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "HI, YOU'RE ON TV!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "WHAT DO YOU HAVE TO SAY ON THIS, OUR LAST SHOW???",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
@@ -30466,229 +29962,211 @@
   },
   {
     "dialogue": "NO, WAIT! WAIT, BL...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "H... THEY ALREADY HUNG UP.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I'LL TAKE ANOTHER CALLER!!!",
-    "character": "Mettaton EX",
-    "location": "Core",
-    "Column6": "room_battle"
-  },
-  {
-    "dialogue": "Mettaton, your show made us so happy!",
-    "character": "Mettaton Caller 1",
-    "location": "Core",
-    "Column6": "room_battle"
-  },
-  {
-    "dialogue": "Mettaton, I don't know what I'll watch without you.",
-    "character": "Mettaton Caller 2",
-    "location": "Core",
-    "Column6": "room_battle"
-  },
-  {
-    "dialogue": "Mettaton, there's a Mettaton-shaped hole in my Mettaton- shaped heart.",
-    "character": "Mettaton Caller 3",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "AH... I...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I SEE...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "EVERYONE... THANK YOU SO MUCH.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "DARLING.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "PERHAPS... IT MIGHT BE BETTER IF I STAY HERE FOR A WHILE.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "HUMANS ALREADY HAVE STARS AND IDOLS, BUT MONSTERS...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "THEY ONLY HAVE ME.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "IF I LEFT... THE UNDERGROUND WOULD LOSE ITS SPARK.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I'D LEAVE AN ACHING VOID THAT CAN NEVER BE FILLED.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "SO... I THINK I'LL HAVE TO DELAY MY BIG DEBUT.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "BESIDES.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "YOU'VE PROVEN TO BE VERY STRONG.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "PERHAPS... EVEN STRONG ENOUGH TO GET PAST ASGORE.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I'M SURE YOU'LL BE ABLE TO PROTECT HUMANITY.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "HA, HA...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "IT'S ALL FOR THE BEST, ANYWAY.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "THE TRUTH IS, THIS FORM'S ENERGY CONSUMPTION IS...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "INEFFICIENT.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "IN A FEW MOMENTS, I'LL RUN OUT OF BATTERY POWER, AND...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "WELL.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I'LL BE ALRIGHT.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "KNOCK 'EM DEAD, DARLING.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "AND EVERYONE... THANK YOU.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "YOU'VE BEEN A GREAT AUDIENCE!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Ohhhh my.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "If you flipped my switch, that can only mean one thing.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "You're desperate for the premiere of my new body.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "How rude...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Lucky for you, I've been aching to show this off for a long time.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "So... as thanks, I'll give you a handsome reward.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I'll make your last living moments...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "ABSOLUTELY beautiful!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
@@ -30712,235 +30190,235 @@
   },
   {
     "dialogue": "Speechless...? Who can blame you?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Well... that's concise.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Beautiful. Sometimes the fewest words speak the loudest.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Nice. You get a gold star.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Oh my... what a great answer.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Oooooh, you said so much about me...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I love how passionate you are.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "... even though I don't understand what you said...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Beautiful. Why don't you write a book?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Nice detail... You're right, I do look quite nice.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Wonderful! Amazing! A+... I AM completely stunning.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Oh, I'm blushing... You're completely right, I am beautiful in every way.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Oh my... I'm speechless... You've completely captured how beautiful I am.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "That's right. Legs was the correct answer!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "How creative. Arms... most people just think about my legs.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "My hair... yes, I use metal hair gel.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Yes, my personality is quite charming, isn't it?",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "They say I have the voice of a Siren...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "... awooga!",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Dancing...? Thank you, I'm self-taught.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Huh? This essay is supposed to be about me, not about you...",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "What a touching confession! I'll add it to the pile.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Toby? What the hell is that? Sounds... sexy.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Oh my! This is a family friendly TV show.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "Now stand still while I murder you.",
-    "character": "Mettaton EX",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "G... GUESS SHE SHOULD HAVE WORKED MORE ON THE DEFENSES...",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "...",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "YOU MAY HAVE DEFEATED ME... BUT...",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "I KNOW. I CAN TELL FROM THAT STRIKE, DARLING.",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "YOU WERE HOLDING BACK.",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "YES, ASGORE WILL FALL EASILY TO YOU...",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "BUT YOU WON'T HARM HUMANITY, WILL YOU?",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "YOU AREN'T ABSOLUTELY EVIL.",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "IF YOU WERE TRYING TO BE, THEN YOU MESSED UP.",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "AND SO LATE INTO THE SHOW, TOO.",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "HA... HA. AT LEAST NOW, I CAN REST EASY.",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "KNOWING ALPHYS AND THE HUMANS WILL LIVE ON...!",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "GH...",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
   {
     "dialogue": "GUESS YOU DON'T WANNA JOIN MY FAN CLUB...?",
-    "character": "Mettaton NEO",
+    "character": "Mettaton",
     "location": "Core",
     "Column6": "room_battle"
   },
@@ -31065,7 +30543,7 @@
     "Column6": "room_battle"
   },
   {
-    "dialogue": "My whole life, I've never been worth a lot of EXP.",
+    "dialogue": "My whole life, I've never been worth a lot ofP.",
     "character": "So Sorry",
     "location": "Hotland",
     "Column6": "room_battle"
@@ -34616,24 +34094,6 @@
     "Column6": "room_battle"
   },
   {
-    "dialogue": "Don't pick on me.",
-    "character": "Reaper Bird",
-    "location": "True Lab",
-    "Column6": "room_battle"
-  },
-  {
-    "dialogue": "Someone finally gets it.",
-    "character": "Reaper Bird",
-    "location": "True Lab",
-    "Column6": "room_battle"
-  },
-  {
-    "dialogue": "Ribbit ribbit.",
-    "character": "Reaper Bird",
-    "location": "True Lab",
-    "Column6": "room_battle"
-  },
-  {
     "dialogue": " sn...  o...  wy...",
     "character": "Snowdrake's Mother",
     "location": "True Lab",
@@ -35960,13 +35420,13 @@
   },
   {
     "dialogue": "Please press this switch.   - TORIEL",
-    "character": "Toriel (note)",
+    "character": "Toriel",
     "location": "Ruins",
     "Column6": "room_ruins3"
   },
   {
     "dialogue": "Please press this switch   too.  - TORIEL",
-    "character": "Toriel (note)",
+    "character": "Toriel",
     "location": "Ruins",
     "Column6": "room_ruins3"
   },
@@ -38300,187 +37760,163 @@
   },
   {
     "dialogue": "HUMAN!! PLEASE ENJOY THIS SPAGHETTI.",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_spaghetti"
   },
   {
     "dialogue": "(LITTLE DO YOU KNOW, THIS SPAGHETTI IS A TRAP...)",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_spaghetti"
   },
   {
     "dialogue": "(DESIGNED TO ENTICE YOU!!!)",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_spaghetti"
   },
   {
     "dialogue": "(YOU'LL BE SO BUSY EATING IT...)",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_spaghetti"
   },
   {
     "dialogue": "(THAT YOU WON'T REALIZE THAT YOU AREN'T PROGRESSING!!)",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_spaghetti"
   },
   {
     "dialogue": "(THOROUGHLY JAPED AGAIN BY THE GREAT PAPYRUS!!!)",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_spaghetti"
   },
   {
     "dialogue": "    NYEH-HEH-HEH,  PAPYRUS",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_spaghetti"
   },
   {
     "dialogue": "SEEING AS THIS SPAGHETTI IS STILL HERE SOMEHOW...",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_spaghetti"
   },
   {
     "dialogue": "I HEREBY DONATE IT TO THE PUBLIC.",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_spaghetti"
   },
   {
     "dialogue": "IT'S LIKE A PLAYGROUND FOR YOUR MOUTH!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_spaghetti"
   },
   {
     "dialogue": "WHAT!? THAT'S IMPOSSIBLE.",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_garage"
   },
   {
     "dialogue": "SORRY, I HAVE TO LOCK YOU IN THE GUEST ROOM UNTIL UNDYNE ARRIVES.",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_garage"
   },
   {
     "dialogue": "FEEL FREE TO MAKE YOURSELF AT HOME!!!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_garage"
   },
   {
     "dialogue": "REFRESHMENTS AND ACCOMODATIONS HAVE BEEN PROVIDED.",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_garage"
   },
   {
     "dialogue": "   - NYEHFULLY YOURS, PAPYRUS",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_garage"
   },
   {
     "dialogue": "PLEASE ASK BEFORE YOU ESCAPE!!!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_garage"
   },
   {
     "dialogue": "WHEN YOU WENT MISSING I GOT WORRIED SICK!!!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_garage"
   },
   {
     "dialogue": "  - SLIGHTLY   BONETROUSLED,   PAPYRUS",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_garage"
   },
   {
     "dialogue": "IF YOU'RE JUST LOOKING FOR A PLACE TO STAY...",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_garage"
   },
   {
     "dialogue": "JUST ASK!!! YOU DON'T NEED TO FIGHT ME!!!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_garage"
   },
   {
     "dialogue": "   - YOUR HOST,    PAPYRUS",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_garage"
   },
   {
-    "dialogue": "(Shoot the opposing ship!) (Move the boxes to complete   your mission.)",
-    "character": "Note",
-    "location": "Hotland",
-    "Column6": "room_fire_shootguy_1, room_fire_shootguy_2"
-  },
-  {
-    "dialogue": "(Shoot the opposing ship!) (You have just one shot.)",
-    "character": "Note",
-    "location": "Hotland",
-    "Column6": "room_fire_shootguy_3, room_fire_shootguy_4"
-  },
-  {
-    "dialogue": "(Hey!)",
-    "character": "Note",
-    "location": "Hotland",
-    "Column6": "room_fire_hotelfront_2"
-  },
-  {
-    "dialogue": "(Go up the creepy alleyway   on the right for some   great deals!)",
-    "character": "Note",
-    "location": "Hotland",
-    "Column6": "room_fire_hotelfront_2"
-  },
-  {
     "dialogue": "YOU OBSERVE THE WELL-CRAFTED SENTRY STATION.",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra4"
   },
   {
     "dialogue": "WHO COULD HAVE BUILT THIS, YOU PONDER...",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra4"
   },
   {
     "dialogue": "I BET IT WAS THAT VERY FAMOUS ROYAL GUARDSMAN!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra4"
   },
   {
     "dialogue": "(NOTE: NOT YET A VERY FAMOUS ROYAL GUARDSMAN.)",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra4"
   },
   {
     "dialogue": "(NOTE: NOT YET A VERY FAMOUS ROYAL GUARDSMAN.)",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra4"
   },
   {
     "dialogue": "(UPDATE: AM I A ROYAL GUARDSMAN YET???)",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra4"
   },
@@ -40853,18 +40289,6 @@
     "Column6": "room_tundra5"
   },
   {
-    "dialogue": "What's that smell? (Where's that smell?)",
-    "character": "Dogamy and Dogaressa",
-    "location": "Snowdin",
-    "Column6": "room_tundra_snowpuzz"
-  },
-  {
-    "dialogue": "If you're a smell... (... identify yoursmellf!)",
-    "character": "Dogamy and Dogaressa",
-    "location": "Snowdin",
-    "Column6": "room_tundra_snowpuzz"
-  },
-  {
     "dialogue": "Hmmm... Here's that weird smell...",
     "character": "Dogamy",
     "location": "Snowdin",
@@ -40883,26 +40307,8 @@
     "Column6": "room_tundra_snowpuzz"
   },
   {
-    "dialogue": "Dogs can pet other dogs??? (A new world has opened   up for us...)",
-    "character": "Dogamy and Dogaressa",
-    "location": "Snowdin",
-    "Column6": "room_tundra_snowpuzz"
-  },
-  {
     "dialogue": "Thanks, weird puppy!",
     "character": "Dogamy",
-    "location": "Snowdin",
-    "Column6": "room_tundra_snowpuzz"
-  },
-  {
-    "dialogue": "Weird smells can bring   good things... (Friendly fun fetch!)",
-    "character": "Dogamy and Dogaressa",
-    "location": "Snowdin",
-    "Column6": "room_tundra_snowpuzz"
-  },
-  {
-    "dialogue": "Thanks, weird smell! (It sure was fun to   \"stick\" together!)",
-    "character": "Dogamy and Dogaressa",
     "location": "Snowdin",
     "Column6": "room_tundra_snowpuzz"
   },
@@ -43995,181 +43401,181 @@
   },
   {
     "dialogue": "Dear Diary: Shyren's sister \"fell down\"   recently.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "It's sad. Without her sister to   speak for her...",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "She's become more   reclusive than ever.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "So I reached out to her,   and told her...",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "That she, Blooky, and I   should all perform together   sometime.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "She seemed to like   that idea.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Dearer Diary: I like to buy a new diary   for every entry I make.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "I love to collect diaries.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Dearest Diary: Our cousin left the farm   to become a training dummy.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "That leaves just Blooky   and I.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Blooky asked me if I was   going to try to become   corporeal, too.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "They sounded so... Resigned...",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Come on, Blooky. You know I'd never leave   you behind.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "And besides...",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "I'd never find the kind   of body I'm looking for,   anyway.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "My Darling Diary: I met someone... Interesting today.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Last week I posted that   advertisement for my   Human Fanclub.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Today was our first meeting.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Only one other person came.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Honestly, she's a dork. And she's obsessed with   these awful cartoons.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "But she's kind of funny,   too....",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "I want to see her again.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Diary... My dear: My diary collection is   going fabulously.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "I have like five now.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Dear Diary: She surpised me with   something today.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Sketches of a body that   she wants to create for   me...",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "A form beyond my wildest   fantasies.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "In a form like that, I   could finally feel   like... \"myself.\"",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "After all, there's no   way I can be a star   the way I am now.",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
   {
     "dialogue": "Sorry, Blooky. My dreams can't wait   for anyone...",
-    "character": "Napstablook's Cousin (diary)",
+    "character": "Napstablook's Cousin",
     "location": "Waterfall",
     "Column6": "room_water_hapstablook"
   },
@@ -46076,12 +45482,6 @@
     "Column6": "room_water_farm"
   },
   {
-    "dialogue": "[redacted]",
-    "character": "Gaster ?",
-    "location": "Waterfall",
-    "Column6": "room_water_redacted"
-  },
-  {
     "dialogue": "awkward... i'm working right now...",
     "character": "Napstablook",
     "location": "Waterfall",
@@ -46257,18 +45657,6 @@
     "character": "Rabbit Kid",
     "location": "Waterfall",
     "Column6": "room_meetundyne_old"
-  },
-  {
-    "dialogue": "All that gives my life   validation is explaining   the Echo Flower...",
-    "character": "Echo Flower (Echo Flower Explainer)",
-    "location": "Waterfall",
-    "Column6": "room_water2"
-  },
-  {
-    "dialogue": "No one can know...",
-    "character": "Echo Flower (Echo Flower Explainer)",
-    "location": "Waterfall",
-    "Column6": "room_water2"
   },
   {
     "dialogue": "This is an Echo Flower. It repeats the last thing   it heard, over and over...",
@@ -46454,61 +45842,55 @@
   },
   {
     "dialogue": "Where oh where could that   child be...?",
-    "character": "Echo Flower (Flowey)",
+    "character": "Flowey",
     "location": "Waterfall",
     "Column6": "room_water19"
   },
   {
     "dialogue": "I've been looking all over   for them...",
-    "character": "Echo Flower (Flowey)",
+    "character": "Flowey",
     "location": "Waterfall",
     "Column6": "room_water19"
   },
   {
     "dialogue": "Hee hee hee.",
-    "character": "Echo Flower (Flowey)",
+    "character": "Flowey",
     "location": "Waterfall",
     "Column6": "room_water19"
   },
   {
     "dialogue": "THAT'S not true.",
-    "character": "Echo Flower (Flowey)",
+    "character": "Flowey",
     "location": "Waterfall",
     "Column6": "room_water19"
   },
   {
     "dialogue": "She'll find another kid, and   instantly forget about you.",
-    "character": "Echo Flower (Flowey)",
+    "character": "Flowey",
     "location": "Waterfall",
     "Column6": "room_water19"
   },
   {
     "dialogue": "You'll NEVER see her again.",
-    "character": "Echo Flower (Flowey)",
+    "character": "Flowey",
     "location": "Waterfall",
     "Column6": "room_water19"
   },
   {
     "dialogue": "Where am I...?",
-    "character": "Echo Flower (Flowey)",
+    "character": "Flowey",
     "location": "Waterfall",
     "Column6": "room_water19"
   },
   {
     "dialogue": "It's so cold here... And so dark...",
-    "character": "Echo Flower (Flowey)",
+    "character": "Flowey",
     "location": "Waterfall",
     "Column6": "room_water19"
   },
   {
     "dialogue": "Someone help me... Anyone... please... Help me...",
-    "character": "Echo Flower (Flowey)",
-    "location": "Waterfall",
-    "Column6": "room_water19"
-  },
-  {
-    "dialogue": "...",
-    "character": "Echo Flower (Flowey)",
+    "character": "Flowey",
     "location": "Waterfall",
     "Column6": "room_water19"
   },
@@ -49367,12 +48749,6 @@
     "Column6": "room_fire_core_final"
   },
   {
-    "dialogue": "...",
-    "character": "Alphys",
-    "location": "Core",
-    "Column6": "room_fire_core_final"
-  },
-  {
     "dialogue": "If you want to   go home...",
     "character": "Alphys",
     "location": "Core",
@@ -49445,12 +48821,6 @@
     "Column6": "room_fire_core_metttest"
   },
   {
-    "dialogue": "...",
-    "character": "Alphys",
-    "location": "Core",
-    "Column6": "room_fire_core_metttest"
-  },
-  {
     "dialogue": "Why don't you go   on ahead?",
     "character": "Alphys",
     "location": "Core",
@@ -49464,12 +48834,6 @@
   },
   {
     "dialogue": "Mettaton, if you were   gone, I would have... I would have...",
-    "character": "Alphys",
-    "location": "Core",
-    "Column6": "room_fire_core_metttest"
-  },
-  {
-    "dialogue": "...",
     "character": "Alphys",
     "location": "Core",
     "Column6": "room_fire_core_metttest"
@@ -50742,54 +50106,6 @@
     "character": "RG 01",
     "location": "Hotland",
     "Column6": "room_fire_boysnightout"
-  },
-  {
-    "dialogue": "Please select a location.",
-    "character": "Elevator",
-    "location": "Hotland",
-    "Column6": "room_fire_elevator"
-  },
-  {
-    "dialogue": "Left Floor 1",
-    "character": "Elevator",
-    "location": "Hotland",
-    "Column6": "room_fire_elevator"
-  },
-  {
-    "dialogue": "Cancel",
-    "character": "Elevator",
-    "location": "Hotland",
-    "Column6": "room_fire_elevator"
-  },
-  {
-    "dialogue": "Right Floor 1",
-    "character": "Elevator",
-    "location": "Hotland",
-    "Column6": "room_fire_elevator"
-  },
-  {
-    "dialogue": "Right Floor 2",
-    "character": "Elevator",
-    "location": "Hotland",
-    "Column6": "room_fire_elevator"
-  },
-  {
-    "dialogue": "Left Floor 2",
-    "character": "Elevator",
-    "location": "Hotland",
-    "Column6": "room_fire_elevator"
-  },
-  {
-    "dialogue": "Left Floor 3",
-    "character": "Elevator",
-    "location": "Hotland",
-    "Column6": "room_fire_elevator"
-  },
-  {
-    "dialogue": "Right Floor 3",
-    "character": "Elevator",
-    "location": "Hotland",
-    "Column6": "room_fire_elevator"
   },
   {
     "dialogue": "What? The elevator should   be working...",
@@ -52893,19 +52209,19 @@
   },
   {
     "dialogue": "(Howdy! I'm in the garden.)",
-    "character": "Asgore (note)",
+    "character": "Asgore",
     "location": "New Home",
     "Column6": "room_asghouse1"
   },
   {
     "dialogue": "(If you have anything you   need to get off your chest,   please don't hesitate to come.)",
-    "character": "Asgore (note)",
+    "character": "Asgore",
     "location": "New Home",
     "Column6": "room_asghouse1"
   },
   {
     "dialogue": "(The keys are in the kitchen   and the hallway.)",
-    "character": "Asgore (note)",
+    "character": "Asgore",
     "location": "New Home",
     "Column6": "room_asghouse1"
   },
@@ -55431,84 +54747,6 @@
     "Column6": "room_tundra_inn"
   },
   {
-    "dialogue": "\"The power to take their   SOULs.\"",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water12"
-  },
-  {
-    "dialogue": "\"This is the power that   the humans feared.\"",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water12"
-  },
-  {
-    "dialogue": "\"The War of Humans and   Monsters.\"",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water7"
-  },
-  {
-    "dialogue": "The northern room hides a   great treasure.",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water14"
-  },
-  {
-    "dialogue": "Hurt, beaten, and fearful for   our lives, we surrendered   to the humans.",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water15"
-  },
-  {
-    "dialogue": "Seven of their greatest   magicians sealed us underground   with a magic spell.",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water15"
-  },
-  {
-    "dialogue": "Anything can enter through the   seal, but only beings with a   powerful SOUL can leave.",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water15"
-  },
-  {
-    "dialogue": "However... There is a prophecy.",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water19"
-  },
-  {
-    "dialogue": "The Angel... The One Who Has Seen The   Surface...",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water19"
-  },
-  {
-    "dialogue": "They will return. And the underground will go   empty.",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water19"
-  },
-  {
-    "dialogue": "The humans, afraid of our   power, declared war on us.",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water_preundyne"
-  },
-  {
-    "dialogue": "They attacked suddenly, and   without mercy.",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water_preundyne"
-  },
-  {
-    "dialogue": "Without candles or magic to   guide them Home, the monsters   used crystals to navigate.",
-    "character": "Plaque",
-    "location": "Waterfall",
-    "Column6": "room_water17"
-  },
-  {
     "dialogue": "MILK? EGGS? IN THE FRIDGE?",
     "character": "Mettaton",
     "location": "Hotland",
@@ -55629,390 +54867,301 @@
     "Column6": "room_fire_core_treasureleft"
   },
   {
-    "dialogue": "ENTRY NUMBER 1",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_hall1"
-  },
-  {
     "dialogue": "This is it... Time to do what the King   has asked me to do.",
-    "character": "Alphys (screen)",
+    "character": "Alphys",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "I will create the power to   free us all.",
-    "character": "Alphys (screen)",
+    "character": "Alphys",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "I will unleash the power of   the SOUL.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
-    "dialogue": "(It seems to be turned off.)",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_hub"
-  },
-  {
-    "dialogue": "POWER ROOM",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_hub"
-  },
-  {
-    "dialogue": "ENTRY NUMBER 6",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_hall2"
-  },
-  {
     "dialogue": "ASGORE asked everyone   outside the city for monsters   that had \"fallen down.\"",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall2"
   },
   {
     "dialogue": "Their bodies came in today.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall2"
   },
   {
     "dialogue": "They're still comatose... And soon, they'll all   turn into dust.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall2"
   },
   {
     "dialogue": "But what happens if I   inject \"determination\" into   them?",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall2"
   },
   {
     "dialogue": "If their SOULS persist   after they perish, then...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall2"
   },
   {
     "dialogue": "Freedom might be closer   than we all thought.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall2"
   },
   {
-    "dialogue": "ENTRY NUMBER 9",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_operatingroom"
-  },
-  {
     "dialogue": "things aren't going well.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_operatingroom"
   },
   {
     "dialogue": "none of the bodies have   turned into dust, so I   can't get the SOULs.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_operatingroom"
   },
   {
     "dialogue": "i told the families that   i would give them the   dust back for the funerals.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_operatingroom"
   },
   {
     "dialogue": "people are starting to   ask me what's happening.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_operatingroom"
   },
   {
     "dialogue": "what do i do?",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_operatingroom"
   },
   {
-    "dialogue": "ENTRY NUMBER 12",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_prebed"
-  },
-  {
     "dialogue": "nothing is happening. i don't know what to do.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prebed"
   },
   {
     "dialogue": "i'll just keep injecting   everything with  \"determination.\"",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prebed"
   },
   {
     "dialogue": "i want this to work.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prebed"
   },
   {
-    "dialogue": "ENTRY NUMBER 14",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_bedroom"
-  },
-  {
     "dialogue": "Everyone that had fallen   down...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_bedroom"
   },
   {
     "dialogue": "... has woken up.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_bedroom"
   },
   {
     "dialogue": "They're all walking around   and talking like nothing   is wrong.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_bedroom"
   },
   {
     "dialogue": "I thought they were   goners...?",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_bedroom"
   },
   {
-    "dialogue": "ENTRY NUMBER 7",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_mirror"
-  },
-  {
     "dialogue": "We'll need a vessel to   wield the monster SOULs   when the time comes.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_mirror"
   },
   {
     "dialogue": "After all, a monster   cannot absorb the SOULs   of other monsters.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_mirror"
   },
   {
     "dialogue": "Just as a human cannot   absorb a human SOUL...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_mirror"
   },
   {
     "dialogue": "So then...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_mirror"
   },
   {
     "dialogue": "What about something that's   neither human nor monster?",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_mirror"
   },
   {
-    "dialogue": "ENTRY NUMBER 15",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_hall3"
-  },
-  {
     "dialogue": "Seems like this research   was a dead end...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall3"
   },
   {
     "dialogue": "But at least we got a   happy ending out of it...?",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall3"
   },
   {
     "dialogue": "I sent the SOULS back to   ASGORE, returned the   vessel to his garden....",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall3"
   },
   {
     "dialogue": "And I called all of the   families and told them   everyone's alive.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall3"
   },
   {
     "dialogue": "I'll send everyone back   tomorrow. :) ",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall3"
   },
   {
-    "dialogue": "ENTRY NUMBER 17",
-    "character": "Screen",
-    "location": "True Lab"
-  },
-  {
     "dialogue": "monsters' physical forms   can't handle \"determination\"   like humans' can.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab"
   },
   {
     "dialogue": "with too much determination,   our bodies begin to break   down.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab"
   },
   {
     "dialogue": "everyone's melted together...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab"
   },
   {
-    "dialogue": "DT EXTRACTION MACHINE STATUS: INACTIVE",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_determination"
-  },
-  {
-    "dialogue": "ENTRY NUMBER 4",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_tv"
-  },
-  {
     "dialogue": "I've been researching humans   to see if I can find any   info about their SOULS.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_tv"
   },
   {
     "dialogue": "I ended up snooping around   the castle... And found these weird tapes.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_tv"
   },
   {
     "dialogue": "I don't feel like ASGORE's   watched them...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_tv"
   },
   {
     "dialogue": "I don't think he should.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_tv"
   },
   {
-    "dialogue": "ENTRY NUMBER 19",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_cooler"
-  },
-  {
     "dialogue": "the families keep calling   me to ask when everyone   is coming home.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_cooler"
   },
   {
     "dialogue": "what am i supposed to say?",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_cooler"
   },
   {
     "dialogue": "i don't even answer the   phone anymore.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_cooler"
   },
   {
     "dialogue": "(It's too dark to see near   the walls.)",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_cooler"
   },
   {
-    "dialogue": "ENTRY NUMBER 8",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_prepower"
-  },
-  {
     "dialogue": "I've chosen a candidate.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prepower"
   },
   {
     "dialogue": "I haven't told ASGORE yet,   because I want to surprise   him with it...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prepower"
   },
   {
     "dialogue": "In the center of his   garden, there's something   special.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prepower"
   },
   {
     "dialogue": "The first golden flower,   that grew before all the   others.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prepower"
   },
   {
     "dialogue": "The flower from the outside   world.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prepower"
   },
   {
     "dialogue": "It appeared just before   the queen left.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prepower"
   },
   {
     "dialogue": "I wonder...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prepower"
   },
   {
     "dialogue": "What happens when something   without a SOUL gains   the will to live?",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prepower"
-  },
-  {
-    "dialogue": "...",
-    "character": "Chara",
-    "location": "New Home",
-    "Column6": "room_asrielroom_final"
   },
   {
     "dialogue": "Trapped behind the barrier   and fearful of further   human attacks, we retreated.",
@@ -56351,170 +55500,128 @@
     "Column6": "room_fire_core_right"
   },
   {
-    "dialogue": "ENTRY NUMBER 2",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_hall1"
-  },
-  {
     "dialogue": "The barrier is locked by   SOUL power..",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "Unfortunately, this power   cannot be recreated   artificially.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "SOUL power can only be   derived from what was   once living.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "So, to create more, we   will have to use what we   have now...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "The SOULs of monsters.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
-    "dialogue": "ENTRY NUMBER 13",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_prebed"
-  },
-  {
     "dialogue": "one of the bodies opened   its eyes.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prebed"
-  },
-  {
-    "dialogue": "ENTRY NUMBER 10",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_mirror"
   },
   {
     "dialogue": "experiments on the   vessel are a failure.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_mirror"
   },
   {
     "dialogue": "it doesn't seem to be   any different from the   control cases.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_mirror"
   },
   {
     "dialogue": "whatever. they're a hassle to work   with anyway.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_mirror"
   },
   {
     "dialogue": "the seeds just stick to   you, and won't let go...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_mirror"
   },
   {
-    "dialogue": "ENTRY NUMBER 16",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_hall3"
-  },
-  {
     "dialogue": "no No NO NO NO NO NO",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall3"
-  },
-  {
-    "dialogue": "ENTRY NUMBER 11",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_fan"
   },
   {
     "dialogue": "now that mettaton's made it   big, he never talks to   me anymore.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_fan"
   },
   {
     "dialogue": "... except to ask when i'm   going to finish his body.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_fan"
   },
   {
     "dialogue": "but i'm afraid if i finish   his body, he won't need me   anymore...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_fan"
   },
   {
     "dialogue": "then we'll never be friends   ever again.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_fan"
   },
   {
     "dialogue": "... not to mention, every time   i try to work on it, i   just get really sweaty...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_fan"
   },
   {
-    "dialogue": "ENTRY NUMBER 20",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_cooler"
-  },
-  {
     "dialogue": "ASGORE left me five   messages today.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_cooler"
   },
   {
     "dialogue": "four about everyone being   angry",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_cooler"
   },
   {
     "dialogue": "one about this cute teacup   he found that looks like   me",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_cooler"
   },
   {
     "dialogue": "thanks asgore.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_cooler"
   },
   {
-    "dialogue": "ENTRY NUMBER 18",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_prepower"
-  },
-  {
     "dialogue": "the flower's gone.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_prepower"
   },
@@ -56813,56 +55920,44 @@
     "Column6": "room_water_undynehouse"
   },
   {
-    "dialogue": "ENTRY NUMBER 3",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_hall1"
-  },
-  {
     "dialogue": "But extracting a SOUL from   a living monster would   require incredible power...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "Besides being impractical,   doing so would instantly   destroy the SOUL's host.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "And, unlike the persistent   SOULs of humans...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "The SOULs of most monsters   disappear immediately upon   death.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "If only I could make a   monster's SOUL last...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
-    "dialogue": "ENTRY NUMBER 21",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_cooler"
-  },
-  {
     "dialogue": "i spend all my time at   the garbage dump now",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_cooler"
   },
   {
     "dialogue": "it's my element",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_cooler"
   },
@@ -56892,7 +55987,7 @@
   },
   {
     "dialogue": "(It's a note.) Howdy! Help yourself to   anything you want!",
-    "character": "Narrator and Asgore (note)",
+    "character": "Asgore",
     "location": "New Home",
     "Column6": "room_kitchen_final"
   },
@@ -56999,50 +56094,44 @@
     "Column6": "room_fire_cookingshow"
   },
   {
-    "dialogue": "ENTRY NUMBER 5",
-    "character": "Screen",
-    "location": "True Lab",
-    "Column6": "room_truelab_hall1"
-  },
-  {
     "dialogue": "I've done it.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "Using the blueprints, I've   extracted it from the   human SOULs.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "I believe this is what   gives their SOULs the strength   to persist after death.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "The will to keep living... The resolve to change fate.",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "Let's call this power...",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "\"Determination.\"",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_hall1"
   },
   {
     "dialogue": "(Golden flowers.)",
-    "character": "Alphys (screen)",
+    "character": "Alphys'",
     "location": "True Lab",
     "Column6": "room_truelab_mirror"
   },
@@ -57414,49 +56503,49 @@
   },
   {
     "dialogue": "SANS! PLEASE PICK UP YOUR SOCK!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_sanshouse"
   },
   {
     "dialogue": "ok.",
-    "character": "Sans (note)",
+    "character": "Sans",
     "location": "Snowdin",
     "Column6": "room_tundra_sanshouse"
   },
   {
     "dialogue": "DON'T PUT IT BACK DOWN! MOVE IT!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_sanshouse"
   },
   {
     "dialogue": "YOU MOVED IT TWO INCHES! MOVE IT TO YOUR ROOM!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_sanshouse"
   },
   {
     "dialogue": "AND DON'T BRING IT BACK!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_sanshouse"
   },
   {
     "dialogue": "IT'S STILL HERE!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_sanshouse"
   },
   {
     "dialogue": "didn't you just say not   to bring it back to my   room?",
-    "character": "Sans (note)",
+    "character": "Sans",
     "location": "Snowdin",
     "Column6": "room_tundra_sanshouse"
   },
   {
     "dialogue": "FORGET IT!",
-    "character": "Papyrus (note)",
+    "character": "Papyrus",
     "location": "Snowdin",
     "Column6": "room_tundra_sanshouse"
   },
@@ -57569,90 +56658,6 @@
     "Column6": "room_fire8"
   },
   {
-    "dialogue": "The way to work is blocked,   so I had time to catch   Mettaton's show on my phone...",
-    "character": "Business Dude 1",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "The special effects were   amazing today! That human almost looked REAL!",
-    "character": "Business Dude 1",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "Of course, an experienced   viewer like me knows CGI   when they see it...",
-    "character": "Business Dude 1",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "The barrier's opened up, so   we don't have to go to   work today.",
-    "character": "Business Dude 1",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "I mean, sure, we're free,   but it's the little   things, you know?",
-    "character": "Business Dude 1",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "That last episode had me   really shaken...",
-    "character": "Business Dude 1",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "But Mettaton's OK. Everyone knows it's just CGI!",
-    "character": "Business Dude 1",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "Mettaton? Yeah, he's the most popular   star in the underground!",
-    "character": "Business Dude 2",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "His fan club probably has   at least two... no, THREE   dozen members!",
-    "character": "Business Dude 2",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "And that's not even counting   me!",
-    "character": "Business Dude 2",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "Today, we all started as   co-workers...",
-    "character": "Business Dude 2",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "Who knows what we'll be   tomorrow?",
-    "character": "Business Dude 2",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "What a heartbreaker.",
-    "character": "Business Dude 2",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
-    "dialogue": "I bet his fanclub's almost   doubled in size from that!",
-    "character": "Business Dude 2",
-    "location": "Hotland",
-    "Column6": "room_fire9"
-  },
-  {
     "dialogue": "It's so nice to   have you over!",
     "character": "Undyne",
     "location": "Waterfall",
@@ -57720,7 +56725,7 @@
   },
   {
     "dialogue": "\"the truth is that you got   owned, nerd......\"",
-    "character": "Sans (note)",
+    "character": "Sans",
     "location": "Snowdin",
     "Column6": "room_tundra_sansroom"
   },
@@ -58476,7 +57481,7 @@
   },
   {
     "dialogue": "Please don't hurt my family.",
-    "character": "Snowdin Shopkeeper (note)",
+    "character": "Snowdin Shopkeeper",
     "location": "Snowdin",
     "Column6": "room_shop1"
   },
@@ -59478,13 +58483,13 @@
   },
   {
     "dialogue": "Hey, this is   Bratty!*",
-    "character": "Bratty (note)",
+    "character": "Bratty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Hey, this is   Catty! ",
-    "character": "Catty (note)",
+    "character": "Catty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
@@ -60120,85 +59125,85 @@
   },
   {
     "dialogue": "If you're   reading   this...*",
-    "character": "Bratty (note)",
+    "character": "Bratty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Then, like,   bad news you   mega-evil   weirdo!",
-    "character": "Catty (note)",
+    "character": "Catty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Alphys just   came here   and she's   taking us...*",
-    "character": "Bratty (note)",
+    "character": "Bratty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Someplace   super duper   safe!",
-    "character": "Catty (note)",
+    "character": "Catty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "But, first,   we gotta use   up these gel   pens.*",
-    "character": "Bratty (note)",
+    "character": "Bratty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Yeah! Chill, Alphys! We don't wanna   waste pens!",
-    "character": "Catty (note)",
+    "character": "Catty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "And don't even   THINK about   stealing our   stuff.*",
-    "character": "Bratty (note)",
+    "character": "Bratty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Yeah, creep! Leave our   junk alone!",
-    "character": "Catty (note)",
+    "character": "Catty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Catty, it's   not JUNK. It's really   valuable.*",
-    "character": "Bratty (note)",
+    "character": "Bratty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Yeah! Our garbage   is REALLY   valuable!",
-    "character": "Catty (note)",
+    "character": "Catty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Anyway. In closing: You're a   total loser!*",
-    "character": "Bratty (note)",
+    "character": "Bratty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Yeah! Loser!!! Nya ha ha!!!",
-    "character": "Catty (note)",
+    "character": "Catty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Signed,   Bratty <3",
-    "character": "Bratty (note)",
+    "character": "Bratty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
   {
     "dialogue": "Signed,   Catty <3 ",
-    "character": "Catty (note)",
+    "character": "Catty",
     "location": "Hotland",
     "Column6": "room_shop3"
   },
@@ -62366,43 +61371,43 @@
   },
   {
     "dialogue": "Let's play Monsters and Humans!",
-    "character": "Kid Slime 1",
+    "character": "Kid Slime",
     "location": "Snowdin",
     "Column6": "room_tundra_town2"
   },
   {
     "dialogue": "Let's continue to play   Monsters and Humans!",
-    "character": "Kid Slime 1",
+    "character": "Kid Slime",
     "location": "Snowdin",
     "Column6": "room_tundra_town2"
   },
   {
     "dialogue": "Now we can play Monsters   and Humans with REAL humans!",
-    "character": "Kid Slime 1",
+    "character": "Kid Slime",
     "location": "Snowdin",
     "Column6": "room_tundra_town2"
   },
   {
     "dialogue": "You aren't gonna make me   be the human again, are you?",
-    "character": "Kid Slime 2",
+    "character": "Kid Slime",
     "location": "Snowdin",
     "Column6": "room_tundra_town2"
   },
   {
     "dialogue": "Can we PLEASE play something   else...?",
-    "character": "Kid Slime 2",
+    "character": "Kid Slime",
     "location": "Snowdin",
     "Column6": "room_tundra_town2"
   },
   {
     "dialogue": "Hmmm... When humans play Monsters   and Humans...",
-    "character": "Kid Slime 2",
+    "character": "Kid Slime",
     "location": "Snowdin",
     "Column6": "room_tundra_town2"
   },
   {
     "dialogue": "Do they just call it   Humans and Humans?",
-    "character": "Kid Slime 2",
+    "character": "Kid Slime",
     "location": "Snowdin",
     "Column6": "room_tundra_town2"
   },
@@ -62715,18 +61720,6 @@
   {
     "dialogue": "hey, everyone.",
     "character": "Sans",
-    "location": "Snowdin",
-    "Column6": "room_tundra_grillby"
-  },
-  {
-    "dialogue": "Hey, Sans. (Hi, Sans.)",
-    "character": "Dogamy and Dogaressa",
-    "location": "Snowdin",
-    "Column6": "room_tundra_grillby"
-  },
-  {
-    "dialogue": "Greetings, Sans. Hiya, Sansy~",
-    "character": "Big Mouth and Drunk Bun",
     "location": "Snowdin",
     "Column6": "room_tundra_grillby"
   },
@@ -63433,24 +62426,6 @@
     "Column6": "room_tundra_library"
   },
   {
-    "dialogue": "(Here I am... Writing this book.)",
-    "character": "Scarf Lady (book)",
-    "location": "Snowdin",
-    "Column6": "room_tundra_library"
-  },
-  {
-    "dialogue": "(A person comes in and picks   up the book...)",
-    "character": "Scarf Lady (book)",
-    "location": "Snowdin",
-    "Column6": "room_tundra_library"
-  },
-  {
-    "dialogue": "(They start reading it...!)",
-    "character": "Scarf Lady (book)",
-    "location": "Snowdin",
-    "Column6": "room_tundra_library"
-  },
-  {
     "dialogue": "Oh, sorry. I'm still writing that one.",
     "character": "Scarf Lady",
     "location": "Snowdin",
@@ -63838,109 +62813,109 @@
   },
   {
     "dialogue": "My fave Mettaton Moment(TM)? Right when everything looks the   baddest, he poses dramatically.",
-    "character": "Diamond Boy 1",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "Like when he's on a cooking   show and the eggs don't turn   out right.",
-    "character": "Diamond Boy 1",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "But! Then he says!",
-    "character": "Diamond Boy 1",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "Even if you suck at cooking,   you can always buy an   MTT-brand Glamburger!",
-    "character": "Diamond Boy 1",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "Then he eats one!  Everyone loves it!",
-    "character": "Diamond Boy 1",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "... How does he eat it   without a mouth?",
-    "character": "Diamond Boy 1",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "Uhhh... well... Watch the show!",
-    "character": "Diamond Boy 1",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "That finale was really... That was really sad!",
-    "character": "Diamond Boy 1",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "And Mettaton's schedule   doesn't show any other   shows...",
-    "character": "Diamond Boy 1",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "I've been thinking about   getting a sick skateboard.",
-    "character": "Diamond Boy 1",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "My fave Mettaton Moment(TM)   is when he beats up the   heel-turning villains!",
-    "character": "Diamond Boy 2",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "Even if it's during what's   supposed to be a quiz show.",
-    "character": "Diamond Boy 2",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "Oh! And I like when he tries   on all kinds of different   fashionable outfits!",
-    "character": "Diamond Boy 2",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "Even if it's during what's   supposed to be a newscast.",
-    "character": "Diamond Boy 2",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "Did Mettaton retire...?",
-    "character": "Diamond Boy 2",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "Can't he unretire...?",
-    "character": "Diamond Boy 2",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "On the surface we'll be able   to watch all kinds of TV...",
-    "character": "Diamond Boy 2",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
   {
     "dialogue": "But, I bet none of those   shows are as good as   Mettaton's!",
-    "character": "Diamond Boy 2",
+    "character": "Diamond Boy",
     "location": "Hotland",
     "Column6": "room_fire_preshootguy4"
   },
@@ -65253,18 +64228,6 @@
     "Column6": "room_water_trashzone1"
   },
   {
-    "dialogue": "Save",
-    "character": "Save File"
-  },
-  {
-    "dialogue": "Return",
-    "character": "Save File"
-  },
-  {
-    "dialogue": "File saved.",
-    "character": "Save File"
-  },
-  {
     "dialogue": "Hey! Don't throw that   away! Just deliver it!",
     "character": "Undyne",
     "location": "Snowdin",
@@ -65545,36 +64508,6 @@
     "character": "Alphys",
     "location": "True Lab",
     "Column6": "room_truelab_power"
-  },
-  {
-    "dialogue": "Tape 1",
-    "character": "Label",
-    "location": "True Lab",
-    "Column6": "room_truelab_tv"
-  },
-  {
-    "dialogue": "Tape 2",
-    "character": "Label",
-    "location": "True Lab",
-    "Column6": "room_truelab_tv"
-  },
-  {
-    "dialogue": "Tape 3",
-    "character": "Label",
-    "location": "True Lab",
-    "Column6": "room_truelab_tv"
-  },
-  {
-    "dialogue": "Tape 4",
-    "character": "Label",
-    "location": "True Lab",
-    "Column6": "room_truelab_tv"
-  },
-  {
-    "dialogue": "Tape 5",
-    "character": "Label",
-    "location": "True Lab",
-    "Column6": "room_truelab_tv"
   },
   {
     "dialogue": "Psssst. Gorey, wake up. ",
@@ -65962,31 +64895,31 @@
   },
   {
     "dialogue": "\"elevator... lost power...\" \"enter the center door...\"",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "True Lab",
     "Column6": "room_truelab_hub"
   },
   {
     "dialogue": "\"drain... dropped it...\"",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "True Lab",
     "Column6": "room_truelab_redlever"
   },
   {
     "dialogue": "\"cold...\"",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "True Lab",
     "Column6": "room_truelab_bluelever"
   },
   {
     "dialogue": "\"curtain...\"",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "True Lab",
     "Column6": "room_truelab_greenlever"
   },
   {
     "dialogue": "\"under... sheets...\"",
-    "character": "Alphys (note)",
+    "character": "Alphys",
     "location": "True Lab",
     "Column6": "room_truelab_tv"
   },

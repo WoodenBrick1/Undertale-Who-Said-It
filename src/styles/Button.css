@@ -1,9 +1,4 @@
 
-@font-face {
-    font-family: undertaleTitle;
-    src: url("../assets/DeterminationMonoWeb.woff") ;
-    
-}
 
 .button {
 
@@ -38,4 +33,5 @@
     justify-content: center;
 
     margin-top: 30px;
+    
 }

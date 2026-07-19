@@ -3,14 +3,17 @@ import TextBox from "./components/TextBox"
 import Credits from "./components/Credits"
 import Button from "./components/Button"
 import CharactersButtons from "./components/CharactersButtons"
+import GuessText from "./components/GuessText"
+
 import allText from "./assets/undertaleTexts.json"
 import allCharacters from "./assets/characters.json"
 import './styles/App.css'
 
-function App() {
+function App () {
 
   const [dialogue, setDialogue] = useState("")
-  const [characterSelecter, setCharacterSelected] = useState("")
+  const [characterSelected, setCharacterSelected] = useState("")
+  const [guessedCorrectly, setGuessedCorrectly] = useState(null)
 
   console.log("Rendering: App")
 
@@ -20,7 +23,11 @@ function App() {
   }
 
   const Guess = () => {
-    console.log("Guess")
+    if (characterSelected === dialogue.character) {
+      setGuessedCorrectly(true)
+    } else {
+      setGuessedCorrectly(false)
+    }
   }
 
   if (dialogue == "") {
@@ -37,6 +44,7 @@ function App() {
         <Button name="GUESS" onClick={Guess}></Button>
       </div>
 
+      <GuessText guessedCorrectly={guessedCorrectly} characterSelected={characterSelected} correctCharacter={dialogue.character} />
       <CharactersButtons characters={allCharacters} setCharacterSelected={setCharacterSelected} />
     </div>
   )

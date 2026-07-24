@@ -6,3 +6,11 @@
     font-size: 3rem;
     font-family: undertaleFont;
 }
+
+.green {
+    color: rgb(0, 231, 0)
+}
+
+.red {
+    color: red
+}

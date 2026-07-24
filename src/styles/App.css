@@ -1,8 +1,9 @@
 @font-face {
-    font-family: undertaleTitle;
-    src: url("../assets/DeterminationMonoWeb.woff") ;
-    
+    font-family: undertaleFont;
+    src: url("../assets/DeterminationMonoWeb.woff");
 }
+
+
 
 :root {
   font-size: 16px;
@@ -21,5 +22,12 @@ body {
   width: 1000px;
   margin: 60px auto 0;
 
+}
 
+#characters-container {
+
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
 }

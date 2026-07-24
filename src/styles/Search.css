@@ -1,0 +1,21 @@
+
+#search {
+    height: 20px;
+
+    font-family: undertaleFont;
+}
+
+#search p {
+    font-size: 2rem;
+}
+
+#search input {
+    height: 50px;
+    width: 250px;
+    font-size: 2rem;
+    font-family: undertaleFont;
+
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}

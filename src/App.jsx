@@ -4,6 +4,7 @@ import Credits from "./components/Credits"
 import Button from "./components/Button"
 import CharactersButtons from "./components/CharactersButtons"
 import GuessText from "./components/GuessText"
+import Search from "./components/Search"
 
 import allText from "./assets/undertaleTexts.json"
 import allCharacters from "./assets/characters.json"
@@ -13,11 +14,13 @@ function App () {
 
   const [dialogue, setDialogue] = useState("")
   const [characterSelected, setCharacterSelected] = useState("")
+  const [characters, setCharacters] = useState(allCharacters)
   const [guessedCorrectly, setGuessedCorrectly] = useState(null)
   const [numOfGuesses, setNumOfGuesses] = useState(0)
+  const [search, setSearch] = useState("")
 
   const gameOver = guessedCorrectly || numOfGuesses == 2
-  console.log(gameOver)
+  console.log(search)
   console.log("Rendering: App")
 
 
@@ -53,6 +56,16 @@ function App () {
     setGuessedCorrectly(null)
   }
 
+
+  const onChange = (e) => {
+    const value = e.target.value
+    setSearch(value)
+
+    setCharacters(allCharacters.filter(character => {
+
+      return character.name.toLowerCase().includes(value.toLowerCase())
+    }))
+  }
   if (dialogue == "") {
     GetRandomDialogue()
   }
@@ -71,7 +84,11 @@ function App () {
 
       <GuessText guessedCorrectly={guessedCorrectly} characterSelected={characterSelected} correctCharacter={dialogue.character} gameOver={gameOver} />
 
-      <CharactersButtons characters={allCharacters} setCharacterSelected={setCharacterSelected} />
+      <div id="characters-container">
+
+        <Search search={search} onChange={onChange} />
+        <CharactersButtons characters={characters} setCharacterSelected={setCharacterSelected} />
+      </div>
     </div>
   )
 }
